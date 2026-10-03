@@ -1,4 +1,4 @@
 # PickerWeb
 Picker Website
 
-Repository for hosting the website for [Picker](http://pick.slackpicker.com/)
+Repository for hosting the website for [Picker](https://costr.github.io/PickerWeb/)
